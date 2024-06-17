@@ -2,7 +2,6 @@
 
 - [Overview](#overview)
 - [Objective](#objective)
-- [How to run](#how-to-run)
 
 ## Overview
 A skeleton of a site to display and host my eventual individual books, with Nuxt.
